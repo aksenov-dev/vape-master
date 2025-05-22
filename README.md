@@ -2,10 +2,6 @@
 
 > Online store with dynamic filtering and sorting items, powered by [Nuxt.js](https://nuxtjs.org/).
 
-## Demo
-
-View a demo [here](http://vape.myfirst.website/atomizers).
-
 ## Build Setup
 
 ``` bash
